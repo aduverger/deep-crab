@@ -1,5 +1,5 @@
 # deep-crab
-An educational-purpose, minimalist deep learning library in Rust 🦀
+An educational-purpose, minimalist deep learning framework in Rust 🦀
 
 ## Todo
 - Tensors
